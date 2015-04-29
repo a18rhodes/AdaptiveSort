@@ -178,13 +178,6 @@ function adSort (arr) {
 
     }
 
-
-
-
-    // immutable version -- store result in a separate location
-    //return chain_join(chain_unit(arr));
-
-    //mutable (standard) version -- store result in-place
     var temp = unitJoin(unitSort(arr)), len = arr.length;
     for (var i = 0; i < len; i++) {
         arr[i] = temp[i];
