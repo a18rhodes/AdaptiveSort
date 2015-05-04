@@ -13,3 +13,5 @@ To use:
 
 array.adSort();
 ```
+
+--Credit to <a href="https://github.com/escherba">esherba</a> for the main algorithm.
