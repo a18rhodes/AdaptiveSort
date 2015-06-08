@@ -1,4 +1,4 @@
-# jsAdaptiveSort
+# AdaptiveSort
 Adaptive Sort algorithm for Javascript
 Adds the method .adSort() to arrays.
 
